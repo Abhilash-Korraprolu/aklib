@@ -10,7 +10,7 @@ To Do:\
 (ii) Cross-validated target mean encoder.\
 <br>
 
-2. **QuickPlots** allow for the creation beautiful visualisations in one line. It currently consists of:\
+2. **QuickPlots** allow for the creation of beautiful customisable visualisations in one line. It currently consists of:\
 (i) Count plot\
 (ii) Pie chart\
 (iii) Histogram\
